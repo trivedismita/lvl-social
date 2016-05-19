@@ -1,0 +1,18 @@
+build
+dist
+
+
+#jspm
+jspm_packages
+
+
+.DS_Store
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# npm debug log file
+npm-debug.log
